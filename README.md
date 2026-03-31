@@ -117,7 +117,7 @@ python main.py
 
 | Package         | Version     | Purpose                       |
 |-----------------|-------------|-------------------------------|
-| `pygame`        | ≥ 2.5.0     | Game engine, rendering, audio |
+| `pygame`        | ≥ 2.6.1     | Game engine, rendering, audio |
 | `mediapipe`     | ≥ 0.10.9    | Hand landmark detection       |
 | `opencv-python` | ≥ 4.13.0.92 | Webcam capture, debug window  |
 | `numpy`         | ≥ 1.24.0    | Array ops used by MediaPipe   |
