@@ -1,6 +1,6 @@
 # 🍌 Monkey Banana Catcher
 
-A fun gesture-controlled jungle platformer built with **pygame** and **MediaPipe**. Control a monkey with your bare hands — tilt your left index finger to move and pinch your right hand to jump. Catch bananas to score, but watch out for rotten bananas and rocks!
+A fun gesture-controlled jungle platformer built with **pygame** and **mediapipe**. Control a monkey with your bare hands — tilt your left index finger to move and pinch your right hand to jump. Catch bananas to score, but watch out for rotten bananas and rocks!
 
 ---
 
