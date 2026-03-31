@@ -82,8 +82,8 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/monkey-banana-catcher.git
-cd monkey-banana-catcher
+git clone https://github.com/Vanny-Dev/MonkeyBananaCatcher.git
+cd MonkeyBananaCatcher
 ```
 
 ### 2. Create a virtual environment (recommended)
