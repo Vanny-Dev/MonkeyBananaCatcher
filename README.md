@@ -62,12 +62,13 @@ project/
 │   │   └── heartbreak.png   # Life indicator (lost)
 │   ├── sounds/
 │   │   ├── jump.mp3         # Jump sound effect
-│   │   ├── bark.mp3         # Banana catch sound
+│   │   ├── eat.wav         # Banana catch sound
 │   │   ├── vomit.mp3        # Rotten banana hit
 │   │   ├── dizzy.mp3        # Rock hit
 │   │   ├── countdown_tick.mp3  # Short beep — plays each second (5→1)
-│   │   ├── countdown_go.mp3    # "GO!" sound
-│   │   └── game_over.mp3       # Plays when all lives are lost
+│   │   ├── countdown_go.wav    # "GO!" sound
+│   │   ├── faaah.mp3        # For Fun Sound Effect Rock hit
+│   │   └── gameover.mp3       # Plays when all lives are lost
 │   └── fonts/
 │       └── slkscr.ttf       # Pixel font
 ├── requirements.txt
